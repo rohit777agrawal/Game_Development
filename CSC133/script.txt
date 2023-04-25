@@ -1,0 +1,4 @@
+#This is a comment!
+show_sprite: 100, 100, f0
+
+text: Howdy partner!
